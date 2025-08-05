@@ -1,4 +1,4 @@
-# Documentation: AI Assistant Usage Analysis in Student Life
+AI Assistant Usage Analysis in Student Life
 
 ## 📋 Project Description
 
