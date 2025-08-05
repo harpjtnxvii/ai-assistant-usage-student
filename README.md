@@ -282,6 +282,6 @@ Dataset mencakup 10,000 sesi penggunaan AI dari periode Agustus 2024 hingga Mei 
 **Note**: Dokumentasi ini dibuat berdasarkan analisis mendalam terhadap 10,000+ data points penggunaan AI mahasiswa.
 All insights and recommendations are supported by empirical data and statistical analysis.
 
-**Last Updated**: August 2025
-**Analyst**: Me. no team just Personal Data Science
-**Contact**: For questions about methodology atau implementasi
+- **Last Updated**: August 2025
+- **Analyst**: Me. no team just Personal Data Science
+- **Contact**: For questions about methodology atau implementasi
